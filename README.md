@@ -20,11 +20,11 @@
 npm install all-dsa
 ```
 
-- [Linked list]()
-- [Stack]()
-- [Queue]()
-- [Binary Search]()
-- [Bubble Sort]()
+- [Linked list](https://github.com/codergalib2005/DSA/blob/main/docs/LINKEDLIST.md)
+- [Stack](https://github.com/codergalib2005/DSA/blob/main/docs/STACK.md)
+- [Queue](https://github.com/codergalib2005/DSA/blob/main/docs/QUEUE.md)
+- [Binary Search](https://github.com/codergalib2005/DSA/blob/main/docs/BINARY-SEARCH.md)
+- [Bubble Sort](https://github.com/codergalib2005/DSA/blob/main/docs/BUBBLE-SORT.md)
 
 ## Contributing
 
