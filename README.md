@@ -1,4 +1,4 @@
-# Your Package Name
+# All DSA
 
 [![npm version](https://img.shields.io/npm/v/your-package-name.svg)](https://www.npmjs.com/package/your-package-name)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-package-name/blob/master/LICENSE)
