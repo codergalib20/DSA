@@ -131,15 +131,5 @@ class LinkedList {
   }
 }
 
-// Example Usage:
-// const linkedList = new LinkedList();
-// linkedList.append(10);
-// linkedList.append(20);
-// linkedList.append(30);
-// linkedList.prepend(5);
-// linkedList.remove(20);
-
-// console.log(linkedList.toArray()); // Output: [5, 10, 30]
-// console.log(linkedList.getLength()); // Output: 3
 
 module.exports = LinkedList;

@@ -20,6 +20,12 @@
 npm install all-dsa
 ```
 
+- [Linked list]()
+- [Stack]()
+- [Queue]()
+- [Binary Search]()
+- [Bubble Sort]()
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or want to suggest improvements.

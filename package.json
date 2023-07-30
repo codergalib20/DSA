@@ -1,12 +1,15 @@
 {
   "name": "all-dsa",
-  "version": "1.0.2",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "test": "jest --watch"
+},
+  "keywords": ["dsa", "linkedlist", "binary-search", "stack", "queue", "bubble-sort"],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
 }
