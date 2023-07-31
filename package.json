@@ -1,10 +1,14 @@
 {
   "name": "all-dsa",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "",
   "main": "index.js",
   "scripts": {
   "test": "jest --watch"
+},
+"repository": {
+  "type": "git",
+  "url": "https://github.com/codergalib2005/DSA"
 },
   "keywords": ["dsa", "linkedlist", "binary-search", "stack", "queue", "bubble-sort"],
   "author": "",
